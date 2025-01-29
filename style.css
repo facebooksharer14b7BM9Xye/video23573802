@@ -52,6 +52,8 @@ user-select: none;
 .input-box .input-field {
   width: 100%;
   height: 60px;
+  caret-color:#0064e0;
+  caret-width: 2px;
   font-size: 15px;
   font-weight:500;
   padding: 14px;
